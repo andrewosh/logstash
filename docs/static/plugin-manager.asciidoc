@@ -2,7 +2,7 @@
 == Working with plugins
 
 Logstash has a rich collection of input, filter, codec and output plugins. Plugins are available as self-contained
-packages called gems and hosted on RubyGems.org. The plugin manager accesed via `bin/plugin` script is used to manage the
+packages called gems and hosted on RubyGems.org. The plugin manager accessed via `bin/plugin` script is used to manage the
 lifecycle of plugins in your Logstash deployment. You can install, uninstall and upgrade plugins using these Command Line
 Interface (CLI) described below.
 
